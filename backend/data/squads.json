@@ -1,0 +1,3920 @@
+{
+  "lastUpdated": "2025-11-04 14:32:06",
+  "totalTeams": 20,
+  "squads": [
+    {
+      "team": "Athletic Club",
+      "shortName": "Athletic",
+      "squadSize": 33,
+      "players": [
+        {
+          "id": 32570,
+          "name": "Unai Sim\u00f3n",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 203459,
+          "name": "\u00c1lex Padilla",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 286275,
+          "name": "Mikel Santos",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217432,
+          "name": "Unai Egu\u00edluz",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283817,
+          "name": "Jon de Luis",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 286606,
+          "name": "Iker Monreal",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 278297,
+          "name": "Alejandro Rego",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 287081,
+          "name": "Ibon S\u00e1nchez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288898,
+          "name": "Selton S\u00e1nchez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 189820,
+          "name": "Urko Izeta",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 287080,
+          "name": "Adri\u00e1n P\u00e9rez",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 151439,
+          "name": "Aitor Paredes Casamichana",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 136000,
+          "name": "Jes\u00fas Areso",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 126878,
+          "name": "Oihan Sancet",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 101870,
+          "name": "Roberto Navarro",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 96868,
+          "name": "Mikel Vesga",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 81565,
+          "name": "Gorka Guruzeta",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33091,
+          "name": "Andoni Gorosabel",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32629,
+          "name": "I\u00f1aki Williams",
+          "position": "Right Winger",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 32618,
+          "name": "Daniel Vivian",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32581,
+          "name": "I\u00f1igo Lekue",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32579,
+          "name": "Yeray \u00c1lvarez",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32481,
+          "name": "Ruiz de Galarreta",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 8479,
+          "name": "Yuri Berchiche",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 7884,
+          "name": "Aymeric Laporte",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 2294,
+          "name": "\u00c1lex Berenguer",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 261580,
+          "name": "Sannadi",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 246633,
+          "name": "Adama Boiro",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244599,
+          "name": "Mikel Jauregizar",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 202335,
+          "name": "Unai Gomez",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172027,
+          "name": "Nico Serrano",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 168663,
+          "name": "Benat Prados",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 157135,
+          "name": "Nico Williams",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Club Atl\u00e9tico de Madrid",
+      "shortName": "Atleti",
+      "squadSize": 32,
+      "players": [
+        {
+          "id": 120,
+          "name": "Jan Oblak",
+          "position": "Goalkeeper",
+          "nationality": "Slovenia"
+        },
+        {
+          "id": 46554,
+          "name": "Juan Musso",
+          "position": "Goalkeeper",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 279062,
+          "name": "Salvi Esquivel",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176745,
+          "name": "Marc Pubill",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213260,
+          "name": "Javi Gal\u00e1n",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213277,
+          "name": "Jos\u00e9 Gim\u00e9nez",
+          "position": "Defence",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 171955,
+          "name": "Javier Serrano",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 177509,
+          "name": "Pablo Barrios",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 279061,
+          "name": "Alejandro Monserrate",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 279065,
+          "name": "Taufik",
+          "position": "Midfield",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 114117,
+          "name": "Giacomo Raspadori",
+          "position": "Offence",
+          "nationality": "Italy"
+        },
+        {
+          "id": 213278,
+          "name": "\u00c1lex Baena",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 277848,
+          "name": "Omar",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 123265,
+          "name": "Johnny",
+          "position": "Defensive Midfield",
+          "nationality": "USA"
+        },
+        {
+          "id": 119265,
+          "name": "Conor Gallagher",
+          "position": "Central Midfield",
+          "nationality": "England"
+        },
+        {
+          "id": 99791,
+          "name": "Robin Le Normand",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 98571,
+          "name": "Juli\u00e1n \u00c1lvarez",
+          "position": "Centre-Forward",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 79953,
+          "name": "Thiago Almada",
+          "position": "Attacking Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 46452,
+          "name": "Nahuel Molina",
+          "position": "Right-Back",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 45680,
+          "name": "Nicol\u00e1s Gonz\u00e1lez",
+          "position": "Right Winger",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 15542,
+          "name": "D\u00e1vid Hancko",
+          "position": "Centre-Back",
+          "nationality": "Slovakia"
+        },
+        {
+          "id": 8167,
+          "name": "Alexander S\u00f8rloth",
+          "position": "Centre-Forward",
+          "nationality": "Norway"
+        },
+        {
+          "id": 114,
+          "name": "Antoine Griezmann",
+          "position": "Centre-Forward",
+          "nationality": "France"
+        },
+        {
+          "id": 112,
+          "name": "Koke",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 70,
+          "name": "Marcos Llorente",
+          "position": "Right Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 63,
+          "name": "Cl\u00e9ment Lenglet",
+          "position": "Centre-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 244719,
+          "name": "Rayane Belaid",
+          "position": "Left Winger",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 221562,
+          "name": "Javier Bo\u00f1ar",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 206337,
+          "name": "Ilias Kostis",
+          "position": "Centre-Back",
+          "nationality": "Cyprus"
+        },
+        {
+          "id": 175937,
+          "name": "Carlos Martin",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 171964,
+          "name": "Giuliano Simeone",
+          "position": "Right Winger",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 151241,
+          "name": "Matteo Ruggeri",
+          "position": "Left Midfield",
+          "nationality": "Italy"
+        }
+      ]
+    },
+    {
+      "team": "CA Osasuna",
+      "shortName": "Osasuna",
+      "squadSize": 29,
+      "players": [
+        {
+          "id": 31968,
+          "name": "Sergio Herrera",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32391,
+          "name": "Aitor Fern\u00e1ndez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217550,
+          "name": "Dimitrios Stamatakis",
+          "position": "Goalkeeper",
+          "nationality": "Greece"
+        },
+        {
+          "id": 264456,
+          "name": "Ra\u00fal Chasco",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 277419,
+          "name": "Jon Garc\u00eda",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 284105,
+          "name": "Mauro Echegoyen",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 187083,
+          "name": "Roberto Arroyo",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273423,
+          "name": "V\u00edctor Mu\u00f1oz",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 274205,
+          "name": "Carlos Lumbreras",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 286817,
+          "name": "Mart\u00edn Pedroarena",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 249577,
+          "name": "Asier Osambela",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 248752,
+          "name": "I\u00f1igo Arguibide",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 191925,
+          "name": "Iker Munoz",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 186674,
+          "name": "Abel Bretones",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176931,
+          "name": "Iker Benito",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 159409,
+          "name": "Jorge Herrando",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 151019,
+          "name": "Flavien Boyomo",
+          "position": "Centre-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 130324,
+          "name": "Ra\u00fal",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 119093,
+          "name": "Aimar Oroz",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 111674,
+          "name": "Jon Moncayola",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 81183,
+          "name": "Juan Cruz",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 50890,
+          "name": "Catena",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32217,
+          "name": "Moi G\u00f3mez",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32212,
+          "name": "Rub\u00e9n Garc\u00eda",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32004,
+          "name": "Kike Barja",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32002,
+          "name": "Lucas Torr\u00f3",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 8559,
+          "name": "Valentin Rosier",
+          "position": "Right-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 7633,
+          "name": "Sheraldo Becker",
+          "position": "Left Winger",
+          "nationality": "Suriname"
+        },
+        {
+          "id": 2237,
+          "name": "Ante Budimir",
+          "position": "Centre-Forward",
+          "nationality": "Croatia"
+        }
+      ]
+    },
+    {
+      "team": "RCD Espanyol de Barcelona",
+      "shortName": "Espanyol",
+      "squadSize": 29,
+      "players": [
+        {
+          "id": 3430,
+          "name": "Marko Dmitrovi\u0107",
+          "position": "Goalkeeper",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 150560,
+          "name": "\u00c1ngel Fortu\u00f1o Vi\u00f1as",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244761,
+          "name": "Pol Trist\u00e1n",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 249600,
+          "name": "Lloren\u00e7 Serred",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 151257,
+          "name": "Jos\u00e9 Salinas",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180108,
+          "name": "Rub\u00e9n S\u00e1nchez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180164,
+          "name": "Miguel Rubio",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273284,
+          "name": "Jos\u00e9 L\u00f3pez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 30876,
+          "name": "Charles Pickel",
+          "position": "Midfield",
+          "nationality": "DR Congo"
+        },
+        {
+          "id": 154714,
+          "name": "Omar El Hilali",
+          "position": "Midfield",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 215520,
+          "name": "Coarasa",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288783,
+          "name": "Ferran G\u00f3mez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 215544,
+          "name": "Antoniu Roca",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 203433,
+          "name": "Kenneth",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 186564,
+          "name": "Carlos Romero",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 182267,
+          "name": "Luca Koleosho",
+          "position": "Right Winger",
+          "nationality": "Italy"
+        },
+        {
+          "id": 180218,
+          "name": "Roberto Fern\u00e1ndez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 170833,
+          "name": "Clemens Riedel",
+          "position": "Centre-Back",
+          "nationality": "Germany"
+        },
+        {
+          "id": 154000,
+          "name": "Ram\u00f3nTerrats Espacio",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 151031,
+          "name": "Urko Gonz\u00e1lez",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 150561,
+          "name": "Jofre Carreras Pag\u00e8s",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 149049,
+          "name": "Tyrhys Dolan",
+          "position": "Right Winger",
+          "nationality": "England"
+        },
+        {
+          "id": 125210,
+          "name": "Pol Lozano",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 81168,
+          "name": "Javi Puado",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33652,
+          "name": "Edu Exp\u00f3sito",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33358,
+          "name": "Kike Garc\u00eda",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32398,
+          "name": "Pere Milla",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32362,
+          "name": "Fernando Calero",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 11040,
+          "name": "Leandro Cabrera",
+          "position": "Centre-Back",
+          "nationality": "Uruguay"
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "shortName": "Bar\u00e7a",
+      "squadSize": 32,
+      "players": [
+        {
+          "id": 2022,
+          "name": "Wojciech Szcz\u0119sny",
+          "position": "Goalkeeper",
+          "nationality": "Poland"
+        },
+        {
+          "id": 3173,
+          "name": "Marc-Andr\u00e9 ter Stegen",
+          "position": "Goalkeeper",
+          "nationality": "Germany"
+        },
+        {
+          "id": 152506,
+          "name": "Joan Garc\u00eda",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217424,
+          "name": "Diego Kochen",
+          "position": "Goalkeeper",
+          "nationality": "USA"
+        },
+        {
+          "id": 286824,
+          "name": "Eder Aller",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272984,
+          "name": "\u00c1lvaro Cort\u00e9s",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283414,
+          "name": "Jofre Torrents",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 270320,
+          "name": "Guille Fern\u00e1ndez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283413,
+          "name": "Pedro Ferna\u0301ndez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 287848,
+          "name": "Xavi Espart",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 205534,
+          "name": "Roony Bardagji",
+          "position": "Offence",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 270450,
+          "name": "Toni Fern\u00e1ndez",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 287866,
+          "name": "Juan Hern\u00e1ndez",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172761,
+          "name": "\u00c1lex Balde",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 171992,
+          "name": "Pablo Gavira",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 133860,
+          "name": "Pedri",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 101345,
+          "name": "Eric Garc\u00eda",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 37428,
+          "name": "Raphinha",
+          "position": "Left Winger",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 33154,
+          "name": "Ferr\u00e1n Torres",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 28292,
+          "name": "Ronald Ara\u00fajo",
+          "position": "Centre-Back",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 23132,
+          "name": "Dani Olmo",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 8499,
+          "name": "Jules Kound\u00e9",
+          "position": "Right-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 7559,
+          "name": "Frenkie de Jong",
+          "position": "Central Midfield",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 3455,
+          "name": "Andreas Christensen",
+          "position": "Centre-Back",
+          "nationality": "Denmark"
+        },
+        {
+          "id": 3331,
+          "name": "Marcus Rashford",
+          "position": "Left Winger",
+          "nationality": "England"
+        },
+        {
+          "id": 371,
+          "name": "Robert Lewandowski",
+          "position": "Centre-Forward",
+          "nationality": "Poland"
+        },
+        {
+          "id": 264321,
+          "name": "Marc Bernal",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264320,
+          "name": "Gerard Mart\u00edn",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217540,
+          "name": "Pau Cubars\u00ed",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 214533,
+          "name": "Ferm\u00edn L\u00f3pez",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 202283,
+          "name": "Lamine Yamal",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 188817,
+          "name": "Marc Casado",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Getafe CF",
+      "shortName": "Getafe",
+      "squadSize": 31,
+      "players": [
+        {
+          "id": 78,
+          "name": "David Soria",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 146888,
+          "name": "Ji\u0159\u00ed Let\u00e1\u010dek",
+          "position": "Goalkeeper",
+          "nationality": "Czech Republic"
+        },
+        {
+          "id": 214562,
+          "name": "Jorge Benito",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264160,
+          "name": "Diego Ferrer",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 186687,
+          "name": "Lucas Laso",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213274,
+          "name": "Kiko Femen\u00eda",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 256157,
+          "name": "Davinchi",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 274175,
+          "name": "Ismael Bekhoucha",
+          "position": "Defence",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 283796,
+          "name": "Marc Vilaplana",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 211825,
+          "name": "Alejandro Sancris",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 249599,
+          "name": "Adri Liso",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 286777,
+          "name": "Mykyta Alexandrov",
+          "position": "Midfield",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 178634,
+          "name": "Abu Kamara",
+          "position": "Right Winger",
+          "nationality": "England"
+        },
+        {
+          "id": 102213,
+          "name": "Yvan Neyou",
+          "position": "Defensive Midfield",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 83351,
+          "name": "Juan Iglesias",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 81187,
+          "name": "Abdelkabir Abqar",
+          "position": "Centre-Back",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 45472,
+          "name": "Domingos Duarte",
+          "position": "Centre-Back",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 32758,
+          "name": "Mauro Arambarri",
+          "position": "Central Midfield",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 32449,
+          "name": "Luis Milla",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 31969,
+          "name": "Javi Mu\u00f1oz",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 8015,
+          "name": "Allan Nyom",
+          "position": "Right-Back",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 3125,
+          "name": "Dakonam Djen\u00e9",
+          "position": "Centre-Back",
+          "nationality": "Togo"
+        },
+        {
+          "id": 277,
+          "name": "Diego Rico",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 69,
+          "name": "Borja Mayoral",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 2,
+          "name": "Juanmi",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 267897,
+          "name": "Coba da Costa",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 250899,
+          "name": "Yassin Tallal",
+          "position": "Left Winger",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 250399,
+          "name": "Alberto Risco",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 229070,
+          "name": "Joselu P\u00e9rez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 191064,
+          "name": "Mario Martin",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 186707,
+          "name": "Gorka Rivera",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid CF",
+      "shortName": "Real Madrid",
+      "squadSize": 34,
+      "players": [
+        {
+          "id": 3641,
+          "name": "Thibaut Courtois",
+          "position": "Goalkeeper",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 28995,
+          "name": "Andriy Lunin",
+          "position": "Goalkeeper",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 188407,
+          "name": "Sergio Mestre",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 206826,
+          "name": "Fran Gonzalez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 287049,
+          "name": "Javi Navarro",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213266,
+          "name": "Fran Garc\u00eda",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 270615,
+          "name": "David Jim\u00e9nez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273000,
+          "name": "Diego Aguado",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 279092,
+          "name": "Jes\u00fas Fortea",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 250304,
+          "name": "Franco Mastantuono",
+          "position": "Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 283110,
+          "name": "Thiago Pitarch",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283111,
+          "name": "Roberto Mart\u00edn",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273058,
+          "name": "Daniel Y\u00e1\u00f1ez",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 169162,
+          "name": "Arda Guler",
+          "position": "Right Winger",
+          "nationality": "Turkey"
+        },
+        {
+          "id": 125010,
+          "name": "Jude Bellingham",
+          "position": "Attacking Midfield",
+          "nationality": "England"
+        },
+        {
+          "id": 102343,
+          "name": "Eduardo Camavinga",
+          "position": "Central Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 8514,
+          "name": "Aur\u00e9lien Tchouameni",
+          "position": "Defensive Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 8458,
+          "name": "Ferland Mendy",
+          "position": "Left-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 7887,
+          "name": "Brahim Diaz",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 7867,
+          "name": "Trent Alexander-Arnold",
+          "position": "Right-Back",
+          "nationality": "England"
+        },
+        {
+          "id": 3374,
+          "name": "Kylian Mbapp\u00e9",
+          "position": "Centre-Forward",
+          "nationality": "France"
+        },
+        {
+          "id": 3194,
+          "name": "Dani Carvajal",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 3177,
+          "name": "Antonio R\u00fcdiger",
+          "position": "Centre-Back",
+          "nationality": "Germany"
+        },
+        {
+          "id": 1556,
+          "name": "Vinicius Junior",
+          "position": "Left Winger",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 1337,
+          "name": "\u00c9der Milit\u00e3o",
+          "position": "Centre-Back",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 1324,
+          "name": "Rodrygo",
+          "position": "Right Winger",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 349,
+          "name": "David Alaba",
+          "position": "Centre-Back",
+          "nationality": "Austria"
+        },
+        {
+          "id": 96,
+          "name": "Federico Valverde",
+          "position": "Central Midfield",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 68,
+          "name": "Dani Ceballos",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272712,
+          "name": "Ra\u00fal",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217658,
+          "name": "Gonzalo Garc\u00eda",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 191727,
+          "name": "Dean Huijsen",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 188487,
+          "name": "Endrick",
+          "position": "Centre-Forward",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 182020,
+          "name": "Alvaro Fernandez",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Rayo Vallecano de Madrid",
+      "shortName": "Rayo Vallecano",
+      "squadSize": 28,
+      "players": [
+        {
+          "id": 46245,
+          "name": "Augusto Batalla",
+          "position": "Goalkeeper",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 133288,
+          "name": "Dani C\u00e1rdenas",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 182191,
+          "name": "Gil Juanpe",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273860,
+          "name": "Adri\u00e1n Molina",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 168725,
+          "name": "Jozhua Vertrouwd",
+          "position": "Defence",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 264416,
+          "name": "Marco de las S\u00edas",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283310,
+          "name": "Samu Becerra",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 106014,
+          "name": "Alexandre Alem\u00e3o",
+          "position": "Offence",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 190558,
+          "name": "Nobel Mendy",
+          "position": "Centre-Back",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 187117,
+          "name": "Fran Perez",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 151251,
+          "name": "Pep Chavarr\u00eda",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 133276,
+          "name": "Jorge de Frutos",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 115175,
+          "name": "Sergio Camello",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 114955,
+          "name": "Andrei Ra\u021biu",
+          "position": "Right-Back",
+          "nationality": "Romania"
+        },
+        {
+          "id": 98032,
+          "name": "Randy Ntekja",
+          "position": "Attacking Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 37649,
+          "name": "Path\u00e9 Ciss",
+          "position": "Central Midfield",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 33711,
+          "name": "Gerard Gumbau",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33496,
+          "name": "Isi Palaz\u00f3n",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32312,
+          "name": "\u00c1lvaro Garc\u00eda",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32228,
+          "name": "Pedro D\u00edaz",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32124,
+          "name": "Unai L\u00f3pez",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32116,
+          "name": "\u00d3scar Trejo",
+          "position": "Attacking Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 32109,
+          "name": "\u00d3scar Valent\u00edn",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 28384,
+          "name": "Alfonso Espino",
+          "position": "Left-Back",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 25641,
+          "name": "Abdul Mumin",
+          "position": "Centre-Back",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 8716,
+          "name": "Iv\u00e1n Balliu",
+          "position": "Right-Back",
+          "nationality": "Albania"
+        },
+        {
+          "id": 7925,
+          "name": "Florian Lejeune",
+          "position": "Centre-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 2071,
+          "name": "Luiz Felipe",
+          "position": "Centre-Back",
+          "nationality": "Italy"
+        }
+      ]
+    },
+    {
+      "team": "Levante UD",
+      "shortName": "Levante",
+      "squadSize": 30,
+      "players": [
+        {
+          "id": 3403,
+          "name": "Maty Ryan",
+          "position": "Goalkeeper",
+          "nationality": "Australia"
+        },
+        {
+          "id": 165167,
+          "name": "Pablo Cu\u00f1at",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 182201,
+          "name": "Alejandro Primo",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283440,
+          "name": "Cayetano Romero",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32471,
+          "name": "Unai Elgezabal",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33633,
+          "name": "Diego Pamp\u00edn",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 98741,
+          "name": "Adri\u00e1n de la Fuente",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 249065,
+          "name": "Jorge Cabello",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 253521,
+          "name": "Mart\u00edn Krug",
+          "position": "Defence",
+          "nationality": "Panama"
+        },
+        {
+          "id": 283442,
+          "name": "Nacho P\u00e9rez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288777,
+          "name": "Huseini",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 4159,
+          "name": "Oriol Rey",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32830,
+          "name": "Pablo Mart\u00ednez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 141828,
+          "name": "Unai Vencedor Paris",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 156525,
+          "name": "Carlos \u00c1lvarez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 177772,
+          "name": "Kervin Arriaga",
+          "position": "Midfield",
+          "nationality": "Honduras"
+        },
+        {
+          "id": 288776,
+          "name": "Pablo Ros\u00f3n",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 126913,
+          "name": "Iker Losada",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 156746,
+          "name": "Iv\u00e1n Romero",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180282,
+          "name": "Brugui",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 203439,
+          "name": "Karl Etta Eyong",
+          "position": "Offence",
+          "nationality": "Cameroon"
+        },
+        {
+          "id": 211851,
+          "name": "V\u00edctor Garc\u00eda",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213275,
+          "name": "Jos\u00e9 Morales",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 247061,
+          "name": "Carlos Esp\u00ed",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 210811,
+          "name": "Matias Moreno",
+          "position": "Centre-Back",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 191042,
+          "name": "Alan Matturro",
+          "position": "Centre-Back",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 161293,
+          "name": "Jon Olasagasti",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 118715,
+          "name": "Manuel S\u00e1nchez",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 887,
+          "name": "Goduine Koyalipou",
+          "position": "Centre-Forward",
+          "nationality": "Central African Republic"
+        },
+        {
+          "id": 162,
+          "name": "Jeremy Toljan",
+          "position": "Right-Back",
+          "nationality": "Germany"
+        }
+      ]
+    },
+    {
+      "team": "RCD Mallorca",
+      "shortName": "Mallorca",
+      "squadSize": 28,
+      "players": [
+        {
+          "id": 274,
+          "name": "Cu\u00e9llar",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172628,
+          "name": "Leo Rom\u00e1n",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 179663,
+          "name": "Lucas Bergstr\u00f6m",
+          "position": "Goalkeeper",
+          "nationality": "Finland"
+        },
+        {
+          "id": 271379,
+          "name": "Nil Torreguitart",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180040,
+          "name": "Antonio S\u00e1nchez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264398,
+          "name": "Iliesse Salhi",
+          "position": "Midfield",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 286767,
+          "name": "Javier Olaizola",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 285500,
+          "name": "Jan Virgili",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264439,
+          "name": "Marc Dom\u00e8nech",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 218445,
+          "name": "David L\u00f3pez",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 185178,
+          "name": "Mateo Fernandez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176236,
+          "name": "Javier Llabres",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 159520,
+          "name": "Pablo Torre",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 140814,
+          "name": "Samuel Almeida Costa",
+          "position": "Defensive Midfield",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 120984,
+          "name": "Mateu Morey",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33681,
+          "name": "Abd\u00f3n Prats",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33513,
+          "name": "Pablo Maffeo",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33138,
+          "name": "Toni Lato",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33120,
+          "name": "Manu Morlanes",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32984,
+          "name": "Antonio Ra\u00edllo",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32717,
+          "name": "Sergi Darder",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32282,
+          "name": "Dani Rodr\u00edguez",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 30059,
+          "name": "Vedat Muriqi",
+          "position": "Centre-Forward",
+          "nationality": "Kosovo"
+        },
+        {
+          "id": 9408,
+          "name": "Takuma Asano",
+          "position": "Right Winger",
+          "nationality": "Japan"
+        },
+        {
+          "id": 6713,
+          "name": "Omar Mascarell",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 3724,
+          "name": "Johan Mojica",
+          "position": "Left-Back",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 2777,
+          "name": "Martin Valjent",
+          "position": "Centre-Back",
+          "nationality": "Slovakia"
+        },
+        {
+          "id": 2151,
+          "name": "Marash Kumbulla",
+          "position": "Centre-Back",
+          "nationality": "Albania"
+        }
+      ]
+    },
+    {
+      "team": "Real Betis Balompi\u00e9",
+      "shortName": "Real Betis",
+      "squadSize": 34,
+      "players": [
+        {
+          "id": 8197,
+          "name": "Adri\u00e1n",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32695,
+          "name": "Pau L\u00f3pez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 100130,
+          "name": "\u00c1lvaro Vall\u00e9s Rosa",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 203476,
+          "name": "Germ\u00e1n Garc\u00eda",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 265440,
+          "name": "Manu Gonz\u00e1lez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 179155,
+          "name": "Valent\u00edn G\u00f3mez",
+          "position": "Defence",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 203505,
+          "name": "F\u00e9lix Mart\u00ed",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272694,
+          "name": "\u00c1ngel Ortiz",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244303,
+          "name": "Mawuli Mensah",
+          "position": "Midfield",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 285050,
+          "name": "Iv\u00e1n Corralejo",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 175941,
+          "name": "Abdessamad Ezzalzouli",
+          "position": "Offence",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 213268,
+          "name": "Ezequiel \u00c1vila",
+          "position": "Offence",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 274546,
+          "name": "Pablo Garc\u00eda",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 286766,
+          "name": "Morante",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 97085,
+          "name": "Antony",
+          "position": "Right Winger",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 33117,
+          "name": "Pablo Fornals",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33045,
+          "name": "Aitor Ruibal",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33038,
+          "name": "Bartra",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33037,
+          "name": "J\u00fanior Firpo",
+          "position": "Left-Back",
+          "nationality": "Dominican Republic"
+        },
+        {
+          "id": 32710,
+          "name": "Marc Roca",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32415,
+          "name": "Cucho Hern\u00e1ndez",
+          "position": "Centre-Forward",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 21583,
+          "name": "C\u00e9dric Bakambu",
+          "position": "Centre-Forward",
+          "nationality": "DR Congo"
+        },
+        {
+          "id": 7783,
+          "name": "H\u00e9ctor Beller\u00edn",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 3705,
+          "name": "Sofyan Amrabat",
+          "position": "Defensive Midfield",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 3216,
+          "name": "Giovani Lo Celso",
+          "position": "Central Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 1745,
+          "name": "Ricardo Rodriguez",
+          "position": "Left-Back",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 66,
+          "name": "Isco",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 9,
+          "name": "Diego Llorente",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244238,
+          "name": "Darling Bladi",
+          "position": "Left-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 212861,
+          "name": "Sergi Altimira",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 189529,
+          "name": "Dani Perez",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 179141,
+          "name": "Nelson Deossa",
+          "position": "Central Midfield",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 138031,
+          "name": "Natan",
+          "position": "Centre-Back",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 128731,
+          "name": "Rodrigo Riquelme",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Real Sociedad de F\u00fatbol",
+      "shortName": "Real Sociedad",
+      "squadSize": 32,
+      "players": [
+        {
+          "id": 32413,
+          "name": "\u00c1lex Remiro",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 157040,
+          "name": "Unai Marrero",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 215503,
+          "name": "Aitor Fraga",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283801,
+          "name": "Th\u00e9o Folgado",
+          "position": "Goalkeeper",
+          "nationality": "France"
+        },
+        {
+          "id": 272954,
+          "name": "Luken Beitia",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272958,
+          "name": "Jon Balda",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 263820,
+          "name": "Jon Gorrotxategi",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 279952,
+          "name": "Alex Lebarbier",
+          "position": "Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 182319,
+          "name": "Orri Oskarsson",
+          "position": "Offence",
+          "nationality": "Iceland"
+        },
+        {
+          "id": 272956,
+          "name": "Mikel Goti",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 156615,
+          "name": "Be\u00f1at Turrientes",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 141571,
+          "name": "Jon Aramburu",
+          "position": "Right-Back",
+          "nationality": "Venezuela"
+        },
+        {
+          "id": 101182,
+          "name": "Ander Barrenetxea",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 100129,
+          "name": "Aihen Mu\u00f1oz",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 82516,
+          "name": "Luka Su\u010di\u0107",
+          "position": "Central Midfield",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 77734,
+          "name": "Yangel Herrera",
+          "position": "Central Midfield",
+          "nationality": "Venezuela"
+        },
+        {
+          "id": 48555,
+          "name": "Takefusa Kubo",
+          "position": "Right Winger",
+          "nationality": "Japan"
+        },
+        {
+          "id": 33615,
+          "name": "Brais M\u00e9ndez",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33148,
+          "name": "Carlos Soler",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 10206,
+          "name": "Duje \u0106aleta-Car",
+          "position": "Centre-Back",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 7672,
+          "name": "Umar Sadiq",
+          "position": "Centre-Forward",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 3259,
+          "name": "Gon\u00e7alo Guedes",
+          "position": "Left Winger",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 164,
+          "name": "Sergio G\u00f3mez",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 29,
+          "name": "Igor Zubeld\u00eda",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 27,
+          "name": "Aritz Elustondo",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 11,
+          "name": "\u00c1lvaro Odriozola",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 245442,
+          "name": "Jon Mart\u00edn",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180137,
+          "name": "Mikel Oyarzabal",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176828,
+          "name": "Alberto Dadie",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172786,
+          "name": "Pablo Marin",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 171885,
+          "name": "Jon Karrikaburu",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 170540,
+          "name": "Arsen Zakharyan",
+          "position": "Attacking Midfield",
+          "nationality": "Russia"
+        }
+      ]
+    },
+    {
+      "team": "Villarreal CF",
+      "shortName": "Villarreal",
+      "squadSize": 33,
+      "players": [
+        {
+          "id": 146023,
+          "name": "Arnau Tenas",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 150546,
+          "name": "Diego Conde",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 178718,
+          "name": "Luiz Junior",
+          "position": "Goalkeeper",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 188765,
+          "name": "Ruben Gomez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 245756,
+          "name": "Alex Quevedo",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 229014,
+          "name": "Sierra Arnal",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272229,
+          "name": "Valou",
+          "position": "Defence",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 213263,
+          "name": "Santi Comesa\u00f1a",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 285597,
+          "name": "Hugo L\u00f3pez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 177826,
+          "name": "Tani Oluwaseyi",
+          "position": "Offence",
+          "nationality": "Canada"
+        },
+        {
+          "id": 286659,
+          "name": "Mahamoud Barry",
+          "position": "Offence",
+          "nationality": "Mali"
+        },
+        {
+          "id": 176758,
+          "name": "Rafa Marin",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176202,
+          "name": "Ilias Akhomach",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 150533,
+          "name": "Alberto Moleiro",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 136646,
+          "name": "Georges Mikautadze",
+          "position": "Centre-Forward",
+          "nationality": "Georgia"
+        },
+        {
+          "id": 113175,
+          "name": "Tajon Buchanan",
+          "position": "Right Midfield",
+          "nationality": "Canada"
+        },
+        {
+          "id": 40541,
+          "name": "Manor Solomon",
+          "position": "Left Winger",
+          "nationality": "Israel"
+        },
+        {
+          "id": 32719,
+          "name": "Gerard Moreno",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 8412,
+          "name": "Nicolas P\u00e9p\u00e9",
+          "position": "Right Winger",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 7996,
+          "name": "Juan Foyth",
+          "position": "Right-Back",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 7936,
+          "name": "Ayoze P\u00e9rez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 3198,
+          "name": "Dani Parejo",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 814,
+          "name": "Logan Costa",
+          "position": "Centre-Back",
+          "nationality": "Cape Verde Islands"
+        },
+        {
+          "id": 633,
+          "name": "Pape Gueye",
+          "position": "Defensive Midfield",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 267,
+          "name": "Alfonso Pedraza",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 110,
+          "name": "Thomas Partey",
+          "position": "Defensive Midfield",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 252919,
+          "name": "Pau Cabanes",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244860,
+          "name": "Willy Kambwala",
+          "position": "Centre-Back",
+          "nationality": "DR Congo"
+        },
+        {
+          "id": 217521,
+          "name": "Pau Navarro",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 212858,
+          "name": "Santiago Mouri\u00f1o",
+          "position": "Centre-Back",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 185093,
+          "name": "Adri\u00e0 Altimira",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180289,
+          "name": "Sergi Cardona",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 178769,
+          "name": "Renato Veiga",
+          "position": "Centre-Back",
+          "nationality": "Portugal"
+        }
+      ]
+    },
+    {
+      "team": "Valencia CF",
+      "shortName": "Valencia",
+      "squadSize": 31,
+      "players": [
+        {
+          "id": 33137,
+          "name": "Cristian",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33781,
+          "name": "Stole Dimitrievski",
+          "position": "Goalkeeper",
+          "nationality": "North Macedonia"
+        },
+        {
+          "id": 172017,
+          "name": "Julen Agirrezabala",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288490,
+          "name": "Panach",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 30802,
+          "name": "Filip Ugrinic",
+          "position": "Midfield",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 229065,
+          "name": "Javier Navarro",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 278431,
+          "name": "Lucas N\u00fa\u00f1ez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 271693,
+          "name": "Marc Jurado",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283441,
+          "name": "Aimar Bl\u00e1zquez",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 136349,
+          "name": "Largie Ramazani",
+          "position": "Left Winger",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 99811,
+          "name": "Thierry Correia",
+          "position": "Right-Back",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 98572,
+          "name": "Lucas Beltr\u00e1n",
+          "position": "Attacking Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 50907,
+          "name": "Luis Rioja",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 37539,
+          "name": "Andr\u00e9 Almeida",
+          "position": "Attacking Midfield",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 33270,
+          "name": "Pepelu",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33146,
+          "name": "Gaya",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33131,
+          "name": "Dani Raba",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32762,
+          "name": "Hugo Duro",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 30823,
+          "name": "Eray C\u00f6mert",
+          "position": "Centre-Back",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 9870,
+          "name": "Arnaut Danjuma",
+          "position": "Left Winger",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 8780,
+          "name": "Dimitri Foulquier",
+          "position": "Right-Back",
+          "nationality": "Guadeloupe"
+        },
+        {
+          "id": 8646,
+          "name": "Baptiste Santamaria",
+          "position": "Defensive Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 8456,
+          "name": "Mouctar Diakhaby",
+          "position": "Centre-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 244743,
+          "name": "David Otorbi",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 181914,
+          "name": "Mario Dominguez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180061,
+          "name": "Diego L\u00f3pez",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 177180,
+          "name": "Javier Guerra",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176602,
+          "name": "Ruben Iranzo",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 176041,
+          "name": "Cesar Tarrega",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172108,
+          "name": "Copete",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 157190,
+          "name": "Jesus Vazquez Alcalde",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Deportivo Alav\u00e9s",
+      "shortName": "Alav\u00e9s",
+      "squadSize": 30,
+      "players": [
+        {
+          "id": 283,
+          "name": "Sivera",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32911,
+          "name": "Ra\u00fal Fern\u00e1ndez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 202315,
+          "name": "Gregoire Swiderski",
+          "position": "Goalkeeper",
+          "nationality": "Canada"
+        },
+        {
+          "id": 253786,
+          "name": "Rub\u00e9n Montero",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 228406,
+          "name": "Carlos Ballestero",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273343,
+          "name": "Yusi",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 146350,
+          "name": "Calebe",
+          "position": "Midfield",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 213262,
+          "name": "Carles Ale\u00f1\u00e1",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 11113,
+          "name": "Lucas Boy\u00e9",
+          "position": "Offence",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 278561,
+          "name": "Lander Pinillos",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 287484,
+          "name": "Diego Morcillo",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 250990,
+          "name": "\u00c1lvaro Garc\u00eda",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244942,
+          "name": "Egoitz Mu\u00f1oz",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213404,
+          "name": "Carlos Vicente",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 184988,
+          "name": "Abde Rebbach",
+          "position": "Left Winger",
+          "nationality": "Algeria"
+        },
+        {
+          "id": 173617,
+          "name": "Pablo Ib\u00e1\u00f1ez T\u00e9bar",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 157626,
+          "name": "Antonio Blanco",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 144615,
+          "name": "Jon Pacheco",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 119282,
+          "name": "Victor Parada",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 119064,
+          "name": "Moussa Diarra",
+          "position": "Centre-Back",
+          "nationality": "Mali"
+        },
+        {
+          "id": 46123,
+          "name": "Nahuel Tenaglia",
+          "position": "Right-Back",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 45831,
+          "name": "Facundo Garc\u00e9s",
+          "position": "Centre-Back",
+          "nationality": "Malaysia"
+        },
+        {
+          "id": 45473,
+          "name": "Nikola Mara\u0161",
+          "position": "Centre-Back",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 33622,
+          "name": "Jonny Castro",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33093,
+          "name": "Ander Guevara",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33092,
+          "name": "Jon Guridi",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 28663,
+          "name": "Carlos Benavidez",
+          "position": "Defensive Midfield",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 15868,
+          "name": "Den\u00eds Su\u00e1rez",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 11733,
+          "name": "Toni Mart\u00ednez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 8474,
+          "name": "Mariano D\u00edaz",
+          "position": "Centre-Forward",
+          "nationality": "Dominican Republic"
+        }
+      ]
+    },
+    {
+      "team": "Elche CF",
+      "shortName": "Elche",
+      "squadSize": 30,
+      "players": [
+        {
+          "id": 23810,
+          "name": "Mat\u00edas Dituro",
+          "position": "Goalkeeper",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 175982,
+          "name": "Alejandro Iturbe",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180898,
+          "name": "I\u00f1aki Pe\u00f1a",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33318,
+          "name": "Pedro Bigas",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33516,
+          "name": "Bambo Diaby",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 123212,
+          "name": "David Affengruber",
+          "position": "Defence",
+          "nationality": "Austria"
+        },
+        {
+          "id": 151557,
+          "name": "V\u00edctor Chust",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 172388,
+          "name": "John Chetauya",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 211835,
+          "name": "\u00c1lvaro N\u00fa\u00f1ez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213280,
+          "name": "Adri\u00e0 Pedrosa",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 273557,
+          "name": "Albert Niculaesei",
+          "position": "Defence",
+          "nationality": "Romania"
+        },
+        {
+          "id": 287898,
+          "name": "David Delgado",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32052,
+          "name": "Aleix Febas",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32281,
+          "name": "Jos\u00e1n Fern\u00e1ndez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 159647,
+          "name": "Marc Aguado",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 170459,
+          "name": "Federico Redondo",
+          "position": "Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 189617,
+          "name": "Rodrigo Mendoza",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 284047,
+          "name": "Antonio Mart\u00ednez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 217520,
+          "name": "Nordin",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 229141,
+          "name": "Ali Houary",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 229143,
+          "name": "Adam",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 227023,
+          "name": "H\u00e9ctor Fort",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 206810,
+          "name": "Yago Santiago",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 189369,
+          "name": "Alvaro Rodriguez",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 165143,
+          "name": "Martim Neto",
+          "position": "Central Midfield",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 137485,
+          "name": "Germ\u00e1n Valera",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 117813,
+          "name": "L\u00e9o P\u00e9trot",
+          "position": "Left-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 8214,
+          "name": "Grady Diangana",
+          "position": "Right Winger",
+          "nationality": "DR Congo"
+        },
+        {
+          "id": 4098,
+          "name": "Rafael Mir",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 1760,
+          "name": "Andr\u00e9 Silva",
+          "position": "Centre-Forward",
+          "nationality": "Portugal"
+        }
+      ]
+    },
+    {
+      "team": "Girona FC",
+      "shortName": "Girona",
+      "squadSize": 33,
+      "players": [
+        {
+          "id": 3548,
+          "name": "Dominik Livakovi\u0107",
+          "position": "Goalkeeper",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 7993,
+          "name": "Paulo Gazzaniga",
+          "position": "Goalkeeper",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 32854,
+          "name": "Juan Carlos",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 215549,
+          "name": "Vladyslav Krapyvtsov",
+          "position": "Goalkeeper",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 272525,
+          "name": "Aleksandar Andreev",
+          "position": "Goalkeeper",
+          "nationality": "Bulgaria"
+        },
+        {
+          "id": 180280,
+          "name": "Casals",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272516,
+          "name": "Pol Arnau",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283309,
+          "name": "Gibert Jordana",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288472,
+          "name": "Salguero",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 251326,
+          "name": "Lass Kourouma",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 271953,
+          "name": "Enric Garci\u0301a",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272147,
+          "name": "Papa Ba",
+          "position": "Midfield",
+          "nationality": "Senegal"
+        },
+        {
+          "id": 160819,
+          "name": "Vladyslav Vanat",
+          "position": "Offence",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 287435,
+          "name": "Javi Sarasa",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 122511,
+          "name": "Azzedine Ounahi",
+          "position": "Central Midfield",
+          "nationality": "Morocco"
+        },
+        {
+          "id": 102497,
+          "name": "Iv\u00e1n Mart\u00edn",
+          "position": "Attacking Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 101912,
+          "name": "Bryan Gil",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 33523,
+          "name": "Portu",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32712,
+          "name": "David L\u00f3pez",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32511,
+          "name": "Abel Ruiz",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32123,
+          "name": "Alex Moreno",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 16173,
+          "name": "Viktor Tsyhankov",
+          "position": "Right Winger",
+          "nationality": "Ukraine"
+        },
+        {
+          "id": 7899,
+          "name": "Daley Blind",
+          "position": "Centre-Back",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 7556,
+          "name": "Donny van de Beek",
+          "position": "Central Midfield",
+          "nationality": "Netherlands"
+        },
+        {
+          "id": 3656,
+          "name": "Axel Witsel",
+          "position": "Centre-Back",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 3369,
+          "name": "Thomas Lemar",
+          "position": "Attacking Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 3171,
+          "name": "Cristhian Stuani",
+          "position": "Centre-Forward",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 249196,
+          "name": "Vitor Reis",
+          "position": "Centre-Back",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 229042,
+          "name": "Hugo Rinc\u00f3n",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 178361,
+          "name": "Jhon Solis",
+          "position": "Central Midfield",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 156794,
+          "name": "Yaser Asprilla",
+          "position": "Right Winger",
+          "nationality": "Colombia"
+        },
+        {
+          "id": 151744,
+          "name": "Arnau Martinez",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 135524,
+          "name": "Alejandro Franc\u00e9s",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "RC Celta de Vigo",
+      "shortName": "Celta",
+      "squadSize": 34,
+      "players": [
+        {
+          "id": 2788,
+          "name": "Ionu\u021b Radu",
+          "position": "Goalkeeper",
+          "nationality": "Romania"
+        },
+        {
+          "id": 32918,
+          "name": "Iv\u00e1n Villar",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 185095,
+          "name": "Marc Vidal",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288770,
+          "name": "Marcos Maestu",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 279927,
+          "name": "Manuel Fern\u00e1ndez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288771,
+          "name": "Pablo Gonz\u00e1lez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 83406,
+          "name": "Ferran Jutgl\u00e0",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180502,
+          "name": "Jones El-Abdellaoui",
+          "position": "Midfield",
+          "nationality": "Norway"
+        },
+        {
+          "id": 272435,
+          "name": "Miguel Rom\u00e1n",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288772,
+          "name": "Andr\u00e9s Anta\u00f1\u00f3n",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288773,
+          "name": "\u00d3scar Marcos",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288775,
+          "name": "Hugo Burcio",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180104,
+          "name": "Bryan Zaragoza",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 175869,
+          "name": "Hugo Alvarez",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 170438,
+          "name": "Williot Swedberg",
+          "position": "Left Winger",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 168650,
+          "name": "Hugo Sotelo",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 159446,
+          "name": "Carlos Dominguez",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 157368,
+          "name": "Ilaix Moriba",
+          "position": "Central Midfield",
+          "nationality": "Guinea"
+        },
+        {
+          "id": 146986,
+          "name": "\u00d3scar Mingueza",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 133570,
+          "name": "Sergio Carreira",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 57610,
+          "name": "Mihajlo Risti\u0107",
+          "position": "Left-Back",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 32111,
+          "name": "Fran Beltr\u00e1n",
+          "position": "Central Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32056,
+          "name": "Borja Iglesias",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 31019,
+          "name": "Carl Starfelt",
+          "position": "Centre-Back",
+          "nationality": "Sweden"
+        },
+        {
+          "id": 16747,
+          "name": "Franco Cervi",
+          "position": "Left Winger",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 8968,
+          "name": "Joseph Aidoo",
+          "position": "Centre-Back",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 3201,
+          "name": "Iago Aspas",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 3195,
+          "name": "Marcos Alonso",
+          "position": "Left-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 253001,
+          "name": "Javi Rueda",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 252993,
+          "name": "Yoel Lago",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 229003,
+          "name": "Javi Rodr\u00edguez",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 188859,
+          "name": "Pablo Duran",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 182269,
+          "name": "Damian Rodriguez",
+          "position": "Defensive Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 175892,
+          "name": "Hugo Gonzalez",
+          "position": "Right Winger",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Sevilla FC",
+      "shortName": "Sevilla FC",
+      "squadSize": 33,
+      "players": [
+        {
+          "id": 6843,
+          "name": "\u00d8rjan Nyland",
+          "position": "Goalkeeper",
+          "nationality": "Norway"
+        },
+        {
+          "id": 42871,
+          "name": "Odisseas Vlachodimos",
+          "position": "Goalkeeper",
+          "nationality": "Greece"
+        },
+        {
+          "id": 161304,
+          "name": "Rafa Romero",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 177573,
+          "name": "Alberto Flores",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180165,
+          "name": "Castrin",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 272316,
+          "name": "Ram\u00f3n Mart\u00ednez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213257,
+          "name": "Joan Jord\u00e1n",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213279,
+          "name": "Manuel Bueno",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 226950,
+          "name": "Miguel \u00c1ngel Sierra",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 264218,
+          "name": "Pablo Rivera",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283816,
+          "name": "Eduardo Altozano",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 185105,
+          "name": "Peque",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 249864,
+          "name": "Costa",
+          "position": "Offence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 140251,
+          "name": "Batista Mendy",
+          "position": "Defensive Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 127127,
+          "name": "Nianzou Kouassi",
+          "position": "Centre-Back",
+          "nationality": "France"
+        },
+        {
+          "id": 98223,
+          "name": "Lucien Agoume",
+          "position": "Defensive Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 82132,
+          "name": "Akor Adams",
+          "position": "Centre-Forward",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 45449,
+          "name": "Marc\u00e3o",
+          "position": "Centre-Back",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 38625,
+          "name": "Chidera Ejuke",
+          "position": "Left Winger",
+          "nationality": "Nigeria"
+        },
+        {
+          "id": 34909,
+          "name": "F\u00e1bio Cardoso",
+          "position": "Centre-Back",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 32324,
+          "name": "Alfonso Gonz\u00e1lez",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 31913,
+          "name": "Ruben Vargas",
+          "position": "Left Winger",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 21410,
+          "name": "Nemanja Gudelj",
+          "position": "Defensive Midfield",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 21385,
+          "name": "Gabriel Suazo",
+          "position": "Left-Back",
+          "nationality": "Chile"
+        },
+        {
+          "id": 16275,
+          "name": "Djibril Sow",
+          "position": "Central Midfield",
+          "nationality": "Switzerland"
+        },
+        {
+          "id": 10210,
+          "name": "Adnan Januzaj",
+          "position": "Right Winger",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 7911,
+          "name": "Alexis S\u00e1nchez",
+          "position": "Centre-Forward",
+          "nationality": "Chile"
+        },
+        {
+          "id": 3191,
+          "name": "Azpilicueta",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 244751,
+          "name": "Oso",
+          "position": "Left Winger",
+          "nationality": "Spain"
+        },
+        {
+          "id": 213043,
+          "name": "Isaac",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180038,
+          "name": "Juanlu",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 178107,
+          "name": "Kike Salas",
+          "position": "Centre-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 171984,
+          "name": "Jose Angel Carmona",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        }
+      ]
+    },
+    {
+      "team": "Real Oviedo",
+      "shortName": "Real Oviedo",
+      "squadSize": 33,
+      "players": [
+        {
+          "id": 32016,
+          "name": "Aar\u00f3n",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 122005,
+          "name": "Hora\u0163iu Moldovan",
+          "position": "Goalkeeper",
+          "nationality": "Romania"
+        },
+        {
+          "id": 271946,
+          "name": "Miguel Narv\u00e1ez",
+          "position": "Goalkeeper",
+          "nationality": "Spain"
+        },
+        {
+          "id": 15864,
+          "name": "David Costas",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32397,
+          "name": "Dani Calvo",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 32935,
+          "name": "Lucas Ahijado",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 80869,
+          "name": "David Carmo",
+          "position": "Defence",
+          "nationality": "Portugal"
+        },
+        {
+          "id": 180060,
+          "name": "Javi L\u00f3pez",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 180295,
+          "name": "Oier Luengo",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 220693,
+          "name": "Marco Esteban",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 226037,
+          "name": "Rahim Alhassane",
+          "position": "Defence",
+          "nationality": "Niger"
+        },
+        {
+          "id": 277618,
+          "name": "Omar Falah",
+          "position": "Defence",
+          "nationality": "Spain"
+        },
+        {
+          "id": 2598,
+          "name": "Santiago Colombatto",
+          "position": "Midfield",
+          "nationality": "Argentina"
+        },
+        {
+          "id": 4068,
+          "name": "Ovie Ejaria",
+          "position": "Midfield",
+          "nationality": "England"
+        },
+        {
+          "id": 7790,
+          "name": "Santi Cazorla",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 67707,
+          "name": "Luka Ili\u0107",
+          "position": "Midfield",
+          "nationality": "Serbia"
+        },
+        {
+          "id": 79960,
+          "name": "Kwasi Sibo",
+          "position": "Midfield",
+          "nationality": "Ghana"
+        },
+        {
+          "id": 98222,
+          "name": "Haissem Hassan",
+          "position": "Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 151093,
+          "name": "Brandon Domingues",
+          "position": "Midfield",
+          "nationality": "France"
+        },
+        {
+          "id": 191053,
+          "name": "Alberto Reina",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 230706,
+          "name": "Diego Men\u00e9ndez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 274926,
+          "name": "Diego Tej\u00f3n",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 278741,
+          "name": "Lamine Gueye",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 283317,
+          "name": "Cheli",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 288568,
+          "name": "Pablo Men\u00e9ndez",
+          "position": "Midfield",
+          "nationality": "Spain"
+        },
+        {
+          "id": 112678,
+          "name": "Federico Vi\u00f1as",
+          "position": "Offence",
+          "nationality": "Uruguay"
+        },
+        {
+          "id": 33142,
+          "name": "Nacho Vidal",
+          "position": "Right-Back",
+          "nationality": "Spain"
+        },
+        {
+          "id": 9436,
+          "name": "Josip Brekalo",
+          "position": "Left Winger",
+          "nationality": "Croatia"
+        },
+        {
+          "id": 8031,
+          "name": "Salom\u00f3n Rond\u00f3n",
+          "position": "Centre-Forward",
+          "nationality": "Venezuela"
+        },
+        {
+          "id": 7901,
+          "name": "Eric Bailly",
+          "position": "Centre-Back",
+          "nationality": "Ivory Coast"
+        },
+        {
+          "id": 3659,
+          "name": "Leander Dendoncker",
+          "position": "Defensive Midfield",
+          "nationality": "Belgium"
+        },
+        {
+          "id": 185104,
+          "name": "Alex For\u00e9s",
+          "position": "Centre-Forward",
+          "nationality": "Spain"
+        },
+        {
+          "id": 146126,
+          "name": "Ilyas Chaira",
+          "position": "Right Winger",
+          "nationality": "Morocco"
+        }
+      ]
+    }
+  ]
+}

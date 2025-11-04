@@ -2,6 +2,7 @@ from fastapi import APIRouter
 from dotenv import load_dotenv
 import os
 import requests
+import json
 
 # Loading environment variables from .env file
 load_dotenv()
@@ -153,3 +154,49 @@ def get_standings():
     ]
 
     return {"standings": standings}
+
+@router.get("/squads")
+def get_all_squads():
+    """
+    Fetches all current La Liga squads from local JSON data.
+    """
+    try:
+        with open("data/squads.json", "r") as f:
+            data = json.load(f)
+        return data
+    except FileNotFoundError:
+        return {"error": "Local squad data not found. Run fetch_squads.py first."}
+    
+@router.get("/top-scorers")
+def get_top_scorers(limit=10):
+    """
+    Returns the current top scorers in La Liga. Can use limit to set how many are shown. 
+    """
+    url = "https://api.football-data.org/v4/competitions/PD/scorers"
+    headers = {"X-Auth-Token": API_KEY}
+
+    response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        return {"error": "Failed to fetch top scorers", "status": response.status_code}
+
+    data = response.json()
+    scorers = data.get("scorers", [])
+
+    formatted_scorers = [
+        {
+            "rank": i + 1,
+            "player": scorer["player"]["name"],
+            "team": scorer["team"]["name"],
+            "goals": scorer["goals"],
+            "assists": scorer.get("assists", 0),
+            "playedMatches": scorer["playedMatches"]
+        }
+        for i, scorer in enumerate(scorers[:limit])
+    ]
+
+    return {
+        "competition": data.get("competition", {}).get("name", "La Liga"),
+        "season": data.get("season", {}).get("startDate", "")[:4] + "/" + data.get("season", {}).get("endDate", "")[:4],
+        "totalPlayers": len(formatted_scorers),
+        "topScorers": formatted_scorers
+    }
