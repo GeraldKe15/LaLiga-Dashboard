@@ -3,6 +3,7 @@ import { getTopScorers } from "../api";
 
 export default function TopScorers() {
   const [scorers, setScorers] = useState([]);       // start with an empty array
+  const [currSeason, setSeason] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
@@ -11,6 +12,7 @@ export default function TopScorers() {
       .then(res => {
         if (res.data && Array.isArray(res.data.topScorers)) {
           setScorers(res.data.topScorers);
+          setSeason(res.data.season);
         } else {
           setError("No data received");
         }
@@ -27,7 +29,8 @@ export default function TopScorers() {
 
   return (
     <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">Top Scorers</h1>
+      <h1 className="text-2xl font-bold mb-2">Top Scorers</h1>
+      <h1 className="text-md font-semibold mb-4">{currSeason} Season</h1>
       <table className="w-full border border-gray-300">
         <thead className="bg-gray-100">
           <tr>

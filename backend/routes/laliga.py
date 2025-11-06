@@ -10,10 +10,6 @@ API_KEY = os.getenv("FOOTBALL_API_KEY")
 
 router = APIRouter(prefix="/laliga", tags=["La Liga"])
 
-@router.get("/hello")
-def hello():
-    return {"message": "Hello!"}
-
 @router.get("/teams")
 def get_teams():
     """
@@ -188,7 +184,7 @@ def get_top_scorers(limit=10):
             "player": scorer["player"]["name"],
             "team": scorer["team"]["name"],
             "goals": scorer["goals"],
-            "assists": scorer.get("assists", 0),
+            "assists": scorer["assists"] if scorer["assists"] else 0,
             "playedMatches": scorer["playedMatches"]
         }
         for i, scorer in enumerate(scorers[:limit])
