@@ -1,18 +1,16 @@
 import { useState, useEffect } from "react";
-import { getMatches } from "../api";
+import { getMatches, getTeams } from "../api";
 
 export default function Matches() {
     const [matchesData, setMatches] = useState([]);
+    const [teams, setTeams] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     
     useEffect(() => {
-        getMatches().then(res => {
-            if (res.data){
-                setMatches(res.data);
-            } else {
-                setError("No data received");
-            }
+        Promise.all([getMatches(), getTeams()]).then(([matchesRes, teamsRes]) => {
+            setMatches(matchesRes.data);
+            setTeams(teamsRes.data.teams || [])
         }).catch(err => {
             console.error("Error fetching matches:", err);
             setError("Failed to fetch data");
@@ -35,15 +33,15 @@ export default function Matches() {
             <h1 className="text-3xl font-bold mb-6 text-center">
                 La Liga Matchday {currentMatchday}
             </h1>
-            <MatchSection title="Current Matchday Matches" matches={currentMatches} color="blue" />
-            <MatchSection title="Upcoming Matchday Matches" matches={upcomingMatchday} color="green" />
-            <MatchSection title="Previous Matchday Matches" matches={previousMatchday} color="red" />
+            <MatchSection title="Current Matchday Matches" matches={currentMatches} teams={teams} color="blue" />
+            <MatchSection title="Upcoming Matchday Matches" matches={upcomingMatchday} teams={teams} color="green" />
+            <MatchSection title="Previous Matchday Matches" matches={previousMatchday} teams={teams} color="red" />
         </div>
     );
 }
 
 /* Reusable Section Component */
-function MatchSection({title, matches, color}){
+function MatchSection({title, matches, teams, color}){
     const colors = {
         blue: "text-blue-600",
         green: "text-green-600",
@@ -58,10 +56,9 @@ function MatchSection({title, matches, color}){
             {matches.length > 0 ?  (
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                     {matches.map((match, index) => (
-                        <MatchCard key={index} match={match} />
+                        <MatchCard key={index} match={match} teams={teams} />
                     ))}
                 </div>
-
             ): (
                 <p className="text-center text-gray-500">No Matches Available</p>
             )}
@@ -70,7 +67,7 @@ function MatchSection({title, matches, color}){
 }
 
 /* Match Card Component */
-function MatchCard({ match }) {
+function MatchCard({ match, teams }) {
     const { homeTeam, awayTeam, utcDate, score, status} = match;
 
     const formattedDate = new Date(utcDate).toLocaleString("en-US", {
@@ -81,12 +78,19 @@ function MatchCard({ match }) {
         minute: "2-digit"
     });
 
+    const home = teams.find((t) => t.name === homeTeam);
+    const away = teams.find((t) => t.name === awayTeam);
+
     return (
         <div className="border p-4 rounded-lg shadow-sm hover:shadow-md transition flex flex-col items-center text-center">
             <p className="text-gray-500 text-sm mb-2">{formattedDate}</p>
-            <p className="font-semibold mb-2">
-                {homeTeam} <span className="text-gray-600">vs</span> {awayTeam}
-            </p>
+            <div className="flex items-center justify-center gap-3 mb-2">
+                <img src={home.crest} alt={homeTeam} className="w-6 h-6 object-contain" />
+                <span className="font-semibold">{homeTeam}</span>
+                <span className="text-gray-600">vs</span>
+                <span className="font-semibold">{awayTeam}</span>
+                <img src={away.crest} alt={awayTeam} className="w-6 h-6 object-contain" />
+            </div>
 
             {status === "FINISHED" ? (
                 <p className="text-lg font-bold text-blue-800">

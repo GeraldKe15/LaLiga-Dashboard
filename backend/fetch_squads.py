@@ -47,7 +47,9 @@ def fetch_all_squads():
             {
                 "team": team_name,
                 "shortName": team.get("shortName"),
+                "crest": team.get("crest"),
                 "squadSize": len(players),
+                "coach": team.get("coach", {}).get("name", {}),
                 "players": players
             }
         )

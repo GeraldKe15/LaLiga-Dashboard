@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
 import TopScorers from "./pages/TopScorers";
 import Standings from "./pages/Standings";
 import Teams from "./pages/Teams";
@@ -12,6 +13,7 @@ export default function App() {
     <Router>
       <Navbar />
       <Routes>
+        <Route path="/" element={<Home />} />
         <Route path="/scorers" element={<TopScorers />} />
         <Route path="/standings" element={<Standings />} />
         <Route path="/teams" element={<Teams />} />
