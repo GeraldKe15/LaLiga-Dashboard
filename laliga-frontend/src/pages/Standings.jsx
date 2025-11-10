@@ -42,7 +42,14 @@ export default function Standings() {
                     {standings.map((team, index) => (
                         <tr key={index} className="border-t hover:bg-gray-50">
                             <td className="p-2">{team.position}</td>
-                            <td className="p-2">{team.team}</td>
+                            <td className="p-2 flex space-x-2">
+                                <img 
+                                    src={team.crest}
+                                    alt={`${team.crest} crest`}
+                                    className="w-6 h-6"
+                                />
+                                <span>{team.team}</span>
+                            </td>
                             <td className="p-2">{team.playedGames}</td>
                             <td className="p-2">{team.won}</td>
                             <td className="p-2">{team.draw}</td>

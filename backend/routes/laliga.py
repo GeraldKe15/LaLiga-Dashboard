@@ -137,6 +137,7 @@ def get_standings():
         {
             "position": team["position"],
             "team": team["team"]["name"],
+            "crest": team["team"]["crest"],
             "points": team["points"],
             "playedGames": team["playedGames"],
             "won": team["won"],
@@ -183,6 +184,7 @@ def get_top_scorers(limit=10):
             "rank": i + 1,
             "player": scorer["player"]["name"],
             "team": scorer["team"]["name"],
+            "crest": scorer["team"]["crest"],
             "goals": scorer["goals"],
             "assists": scorer["assists"] if scorer["assists"] else 0,
             "playedMatches": scorer["playedMatches"]

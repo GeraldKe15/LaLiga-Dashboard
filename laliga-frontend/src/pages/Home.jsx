@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { getStandings, getTopScorers, getMatches } from "../api";
+import laligalogo from "../assets/LaLiga_logo_2023.svg.png";
 
 export default function Home() {
     const [topTeams, setTopTeams] = useState([]);
@@ -38,15 +39,23 @@ export default function Home() {
 
     return (
         <div className="p-8 text-center">
-            <h1 className="text-3xl font-bold mb-4 text-blue-700">La Liga Dashboard</h1>
+            <div className="flex justify-center items-center mb-6 space-x-3">
+                <img
+                    src={laligalogo}
+                    alt="La Liga Logo"
+                    className="w-14 h-14 object-contain"
+                />
+                <h1 className="text-3xl font-bold mb-4 text-blue-700">La Liga Dashboard</h1>
+            </div>
+            <p className="text-gray-600">
+                Insight into stats, standings, and player data from Spain's top football league.</p>
             <p className="text-gray-600 mb-8">
-                Insight into stats, standings, and player data from Spain's top football league.
-            </p>
+                Use the navigation bar at the top to select which page you would like to view.</p>
 
             {currentMatchday && (
             <div className="mb-8">
                 <h2 className="text-xl font-semibold text-gray-800">
-                Current Matchday: <span className="text-blue-600">{currentMatchday}</span>
+                Current Matchday: <span className="text-blue-600">{currentMatchday}/38</span>
                 </h2>
             </div>
             )}
@@ -57,7 +66,12 @@ export default function Home() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     {topTeams.map((team, idx) => (
                         <div key={idx}
-                            className="bg-white shadow rounded-lg p-4 border hover:shadow-lg transition">
+                            className="bg-white shadow rounded-lg p-4 border hover:shadow-lg transition flex flex-col items-center">
+                            <img 
+                                src={team.crest}
+                                alt={`${team.crest} crest`}
+                                className="w-12 h-12 mb-2"
+                            />
                             <h3 className="font-bold text-lg">{team.team}</h3>
                             <p className="text-gray-600">Points: {team.points}</p>
                             <p className="text-gray-500 text-sm">
@@ -74,9 +88,16 @@ export default function Home() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     {topScorers.map((scorer, idx) => (
                         <div key={idx}
-                            className="bg-white shadow rounded-lg p-4 border hover:shadow-lg transition">
+                            className="bg-white shadow rounded-lg p-4 border hover:shadow-lg transition flex flex-col items-center">
                             <h3 className="font-bold text-lg">{scorer.player}</h3>
-                            <p className="text-gray-600">{scorer.team}</p>
+                            <div className="flex items-center space-x-2">
+                                <p className="text-gray-600">{scorer.team}</p>
+                                <img
+                                    src={scorer.crest}
+                                    alt={`${scorer.team} crest`}
+                                    className="w-6 h-6 mb-2"
+                                />
+                            </div>
                             <p className="text-gray-500">Goals: {scorer.goals}</p>
                         </div>
                     ))}

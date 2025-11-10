@@ -46,7 +46,14 @@ export default function TopScorers() {
             <tr key={s.rank} className="border-t">
               <td className="p-2">{s.rank}</td>
               <td className="p-2">{s.player}</td>
-              <td className="p-2">{s.team}</td>
+              <td className="p-2 flex space-x-2">
+                <img 
+                    src={s.crest}
+                    alt={`${s.crest} crest`}
+                    className="w-6 h-6"
+                />
+                <span>{s.team}</span>
+                </td>
               <td className="p-2">{s.goals}</td>
               <td className="p-2">{s.assists}</td>
             </tr>
