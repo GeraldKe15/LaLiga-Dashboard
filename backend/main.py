@@ -7,7 +7,7 @@ app = FastAPI(title="La Liga Insights API")
 origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
-    "https://la-liga-dashboard.vercel.app/"
+    "https://la-liga-dashboard.vercel.app"
 ]
 
 app.add_middleware(
