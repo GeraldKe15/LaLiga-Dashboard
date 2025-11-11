@@ -1,6 +1,9 @@
 import axios from "axios";
 
-const API_BASE = "https://laliga-dashboard-backend.onrender.com/laliga";
+// Allows the frontend to be both deployed and run locally
+const API_BASE = import.meta.env.MODE === "development"
+    ? "http://127.0.0.1:8000/laliga"
+    : "https://laliga-dashboard-backend.onrender.com/laliga";
 
 export const getStandings = () => axios.get(`${API_BASE}/standings`);
 export const getTopScorers = () => axios.get(`${API_BASE}/top-scorers`);
